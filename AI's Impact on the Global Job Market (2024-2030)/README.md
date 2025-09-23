@@ -2,11 +2,14 @@
 This project features an interactive Tableau dashboard designed to analyse and visualise the transformative impact of Artificial Intelligence on the global job market. It provides a comprehensive overview of job trends, identifies key areas of risk and opportunity, and explores the characteristics of jobs that are most resilient to automation.
 
 Link to Dashboard: https://public.tableau.com/views/AIImpactonJobMarket_17586128427320/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Data Source: https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?
 <br><br>
 ## Dashboards
 The analysis is presented across two distinct, interactive dashboards:
 ### 1. Job Market Overview
 This dashboard provides a high-level snapshot of the changing job landscape, helping users quickly understand the net impact of AI. Its key features include:
+
+<img width="1792" height="892" alt="Dashboard-Page1" src="https://github.com/user-attachments/assets/7158a167-d04e-4c1a-9b05-fcead35c72df" />
 
 * KPIs: At-a-glance metrics for total job openings in 2024 and 2030, the net change, and the projected growth rate.
 
@@ -18,6 +21,8 @@ This dashboard provides a high-level snapshot of the changing job landscape, hel
 
 ### 2. Risk & Opportunity Deep Dive
 This dashboard offers a granular view of the factors correlated with AI's impact, allowing users to explore the underlying relationships. Its key features include:
+
+<img width="1792" height="892" alt="Dashboard-Page2" src="https://github.com/user-attachments/assets/8c4b71ee-c8cb-4460-bcc0-d50f2056c1cf" />
 
 * Automation Risk vs. Median Salary: A scatter plot that explores the complex relationship between a job's automation risk and its salary.
 
