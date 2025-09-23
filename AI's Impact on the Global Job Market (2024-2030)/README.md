@@ -1,8 +1,9 @@
 # AI's Impact on the Global Job Market (2024-2030)
 This project features an interactive Tableau dashboard designed to analyse and visualise the transformative impact of Artificial Intelligence on the global job market. It provides a comprehensive overview of job trends, identifies key areas of risk and opportunity, and explores the characteristics of jobs that are most resilient to automation.
 
-Link to Dashboard: https://public.tableau.com/views/AIImpactonJobMarket_17586128427320/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Data Source: https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?
+Dashboard: https://public.tableau.com/views/AIImpactonJobMarket_17586128427320/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
+
+Data Source: https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030
 <br><br>
 ## Dashboards
 The analysis is presented across two distinct, interactive dashboards:
