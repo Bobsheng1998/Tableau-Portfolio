@@ -25,6 +25,9 @@ Project Link: [AI's Impact on the Global Job Market (2024-2030)](https://public.
 
 Project Folder: [View Project Details](<AI's Impact on the Global Job Market (2024-2030)/>)
 <br><br>
+### 3. More Projects:
+* [Call Centre Performance Dashboard](<Call Centres Performance/>)
+<br><br>
 ## Technologies Used
 * Tableau Public: For all data visualization and dashboard creation.
 * Excel: For data cleaning and preparation.
